@@ -1,7 +1,4 @@
-# General tips and tricks
-In this guide you will find general tips and tricks for the CR-10 mini printer.
-
-## Better start code
+# Fix oozing of plastic at the start of your print
 One of the problems that we encountered with our printer is that it oozes plastic
 at the start of the print. Also, in between prints, some material will collect in the 
 extruder head, which then causes plastic to ooze out when you start another print.
