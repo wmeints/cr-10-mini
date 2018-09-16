@@ -9,7 +9,8 @@ printer. Other guides will help you troubleshoot things with the printer.
 ## The guides
  - [Leveling your printer](leveling_guide.md)
  - [Fix oozing at the start of a print](fix_oozing.md)
-
+ - [Our printer software toolbox](software_toolbox.md)
+ 
 ## Useful links
 
  - [3D print troubleshooting guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
