@@ -7,4 +7,4 @@ Some guides will contain information on how to upgrade various parts of the
 printer. Other guides will help you troubleshoot things with the printer.
 
 ## The guides
- - [Leveling your printer](./Leveling guide.md)
+ - [Leveling your printer](leveling_guide.md)
