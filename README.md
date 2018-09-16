@@ -8,6 +8,7 @@ printer. Other guides will help you troubleshoot things with the printer.
 
 ## The guides
  - [Leveling your printer](leveling_guide.md)
+ - [General tips and tricks](tips_and_tricks.md)
 
 ## Contributions
 Have an improvement for our guides or want to add a guide? We're open for contributions.
