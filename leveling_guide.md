@@ -24,6 +24,11 @@ of the printer to their default positions.
  - Select `Prepare`
  - Select `Autohome`
 
+With the printer in the home position, disable the steppers using these steps:
+
+ - Select `Prepare`
+ - Select `Disable steppers`
+
 ## Step 2: Level the four corners of the printerbed
 There are four leveling knobs underneath the printerbed, you can use these to 
 level the printerbed. The goal is to have a distance of 0.1 mm between the 
