@@ -10,6 +10,7 @@ printer. Other guides will help you troubleshoot things with the printer.
  - [Leveling your printer](leveling_guide.md)
  - [Fix oozing at the start of a print](fix_oozing.md)
  - [Our printer software toolbox](software_toolbox.md)
+ - [Print preparation guide](print_preparation.md)
  
 ## Useful links
 
